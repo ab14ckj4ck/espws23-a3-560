@@ -1,0 +1,12 @@
+4
+9
+15
+28
+discard 4
+discard 29
+discard 4
+discard 9
+discard 15
+discard 7
+discard 28
+quit

@@ -1,0 +1,110 @@
+[project_definition]
+binary_path = "./a3"
+makefile_path = "."
+make_targets = ["all"]
+project_name = "a3"
+global_timeout = 20
+
+################################################################################
+## public test cases
+##
+[[testcases]]
+name = "Where is my config file"
+description = "Config file not found"
+type = "OrdIO"
+io_file = "tests/01/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 2
+argv = ["random_path.txt"]
+
+[[testcases]]
+name = "Distributing cards"
+description = "Simple card distribution"
+type = "OrdIO"
+io_file = "tests/02/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_02.txt"]
+
+[[testcases]]
+name = "Distributing / choosing cards"
+description = "Simple card distribution / choosing"
+type = "OrdIO"
+io_file = "tests/03/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_03.txt"]
+
+[[testcases]]
+name = "Invalid choosing"
+description = "Simple card choosing with invalid input"
+type = "OrdIO"
+io_file = "tests/04/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_04.txt"]
+
+[[testcases]]
+name = "Invalid quit"
+description = "Simple quiting"
+type = "OrdIO"
+io_file = "tests/05/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_05.txt"]
+
+[[testcases]]
+name = "Command place"
+description = "Simple card placing"
+type = "OrdIO"
+io_file = "tests/06/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_06.txt"]
+
+[[testcases]]
+name = "Invalid command place"
+description = "Invalid card placing commands"
+type = "OrdIO"
+io_file = "tests/07/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_07.txt"]
+
+[[testcases]]
+name = "Command discard"
+description = "Discard command testing"
+type = "OrdIO"
+io_file = "tests/08/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_08.txt"]
+
+[[testcases]]
+name = "Full game"
+description = "Complete game with help"
+type = "OrdIO"
+io_file = "tests/09/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_09.txt"]
+
+[[testcases]]
+name = "Full game 2"
+description = "Complete game with some wrong number of parameters"
+type = "OrdIO"
+io_file = "tests/10/io.txt"
+io_prompt = "s*>\\s*$"
+exp_exit_code = 0
+argv = ["configs/config_10.txt"]
+
+[[testcases]]
+name = "Check file output"
+description = "Check correct printing of result"
+type = "OrdIO"
+io_file = "tests/11/io.txt"
+io_prompt = "s*>\\s*$"
+add_out_file = "configs/config_11.txt"
+add_exp_file = "tests/11/config_ref.txt"
+exp_exit_code = 0
+argv = ["configs/config_11.txt"]

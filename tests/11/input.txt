@@ -1,0 +1,41 @@
+23
+49
+3
+16
+place 1 23
+place 1 49
+place 3 3
+place 1 16
+25
+52
+51
+71
+place 1 25
+place 1 52
+place 2 25
+place 2 51
+place 2 71
+77
+78
+53
+57
+discard 77
+discard 78
+discard 53
+discard 57
+70
+72
+83
+89
+discard 70
+discard 72
+place 1 83
+place 1 89
+114
+117
+76
+79
+place 3 114
+place 2 117
+place 3 76
+discard 79

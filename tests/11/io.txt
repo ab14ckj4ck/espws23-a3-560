@@ -1,0 +1,472 @@
+> Welcome to SyntaxSakura (2 players are playing)!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 23_r 49_w 51_g 71_r 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards:
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 23
+> Please choose a second card to keep:
+? P1 > 
+< 49
+> 
+> Player 2:
+>   hand cards: 3_g 16_b 25_r 52_b 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards:
+> 
+> Please choose a first card to keep:
+? P2 > 
+< 3
+> Please choose a second card to keep:
+? P2 > 
+< 16
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards: 25_r 52_b 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards: 23_r 49_w
+> 
+> What do you want to do?
+? P1 > 
+< place 1 23
+> 
+> Player 1:
+>   hand cards: 25_r 52_b 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards: 49_w
+>   row_1: 23_r
+> 
+> What do you want to do?
+? P1 > 
+< place 1 49
+> 
+> Player 1:
+>   hand cards: 25_r 52_b 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 23_r 49_w
+> 
+> 
+> Player 2:
+>   hand cards: 51_g 71_r 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards: 3_g 16_b
+> 
+> What do you want to do?
+? P2 > 
+< place 3 3
+> 
+> Player 2:
+>   hand cards: 51_g 71_r 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards: 16_b
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 1 16
+> 
+> Player 2:
+>   hand cards: 51_g 71_r 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 16_b
+>   row_3: 3_g
+> 
+> 
+> Action phase is over - starting next game round!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 25_r 52_b 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 23_r 49_w
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 25
+> Please choose a second card to keep:
+? P1 > 
+< 52
+> 
+> Player 2:
+>   hand cards: 51_g 71_r 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 16_b
+>   row_3: 3_g
+> 
+> Please choose a first card to keep:
+? P2 > 
+< 51
+> Please choose a second card to keep:
+? P2 > 
+< 71
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards: 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards: 25_r 52_b
+>   row_1: 23_r 49_w
+> 
+> What do you want to do?
+? P1 > 
+< place 1 25
+> This card cannot extend the chosen row!
+? P1 > 
+< place 1 52
+> 
+> Player 1:
+>   hand cards: 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards: 25_r
+>   row_1: 23_r 49_w 52_b
+> 
+> What do you want to do?
+? P1 > 
+< place 2 25
+> 
+> Player 1:
+>   hand cards: 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> 
+> Player 2:
+>   hand cards: 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards: 51_g 71_r
+>   row_1: 16_b
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 2 51
+> 
+> Player 2:
+>   hand cards: 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards: 71_r
+>   row_1: 16_b
+>   row_2: 51_g
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 2 71
+> 
+> Player 2:
+>   hand cards: 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> 
+> Action phase is over - starting next game round!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 77_w 78_g 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 77
+> Please choose a second card to keep:
+? P1 > 
+< 78
+> 
+> Player 2:
+>   hand cards: 53_r 57_g 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> Please choose a first card to keep:
+? P2 > 
+< 53
+> Please choose a second card to keep:
+? P2 > 
+< 57
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards: 70_w 72_g 76_b 79_r
+>   chosen cards: 77_w 78_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> What do you want to do?
+? P1 > 
+< discard 77
+> 
+> Player 1:
+>   hand cards: 70_w 72_g 76_b 79_r
+>   chosen cards: 78_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> What do you want to do?
+? P1 > 
+< discard 78
+> 
+> Player 1:
+>   hand cards: 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> 
+> Player 2:
+>   hand cards: 83_r 89_r 114_g 117_g
+>   chosen cards: 53_r 57_g
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< discard 53
+> 
+> Player 2:
+>   hand cards: 83_r 89_r 114_g 117_g
+>   chosen cards: 57_g
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< discard 57
+> 
+> Player 2:
+>   hand cards: 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> 
+> Action phase is over - starting next game round!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 70_w 72_g 76_b 79_r
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 70
+> Please choose a second card to keep:
+? P1 > 
+< 72
+> 
+> Player 2:
+>   hand cards: 83_r 89_r 114_g 117_g
+>   chosen cards:
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> Please choose a first card to keep:
+? P2 > 
+< 83
+> Please choose a second card to keep:
+? P2 > 
+< 89
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards: 114_g 117_g
+>   chosen cards: 70_w 72_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> What do you want to do?
+? P1 > 
+< discard 70
+> 
+> Player 1:
+>   hand cards: 114_g 117_g
+>   chosen cards: 72_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> What do you want to do?
+? P1 > 
+< discard 72
+> 
+> Player 1:
+>   hand cards: 114_g 117_g
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> 
+> Player 2:
+>   hand cards: 76_b 79_r
+>   chosen cards: 83_r 89_r
+>   row_1: 16_b
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 1 83
+> 
+> Player 2:
+>   hand cards: 76_b 79_r
+>   chosen cards: 89_r
+>   row_1: 16_b 83_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 1 89
+> 
+> Player 2:
+>   hand cards: 76_b 79_r
+>   chosen cards:
+>   row_1: 16_b 83_r 89_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> 
+> Action phase is over - starting next game round!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 114_g 117_g
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> Please choose a first card to keep:
+? P1 > 
+< 114
+> Please choose a second card to keep:
+? P1 > 
+< 117
+> 
+> Player 2:
+>   hand cards: 76_b 79_r
+>   chosen cards:
+>   row_1: 16_b 83_r 89_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> Please choose a first card to keep:
+? P2 > 
+< 76
+> Please choose a second card to keep:
+? P2 > 
+< 79
+> 
+> Card choosing phase is over - passing remaining hand cards to the next player!
+> 
+> ------------
+> ACTION PHASE
+> ------------
+> 
+> Player 1:
+>   hand cards:
+>   chosen cards: 114_g 117_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+> 
+> What do you want to do?
+? P1 > 
+< place 3 114
+> 
+> Player 1:
+>   hand cards:
+>   chosen cards: 117_g
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r
+>   row_3: 114_g
+> 
+> What do you want to do?
+? P1 > 
+< place 2 117
+> 
+> Player 1:
+>   hand cards:
+>   chosen cards:
+>   row_1: 23_r 49_w 52_b
+>   row_2: 25_r 117_g
+>   row_3: 114_g
+> 
+> 
+> Player 2:
+>   hand cards:
+>   chosen cards: 76_b 79_r
+>   row_1: 16_b 83_r 89_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g
+> 
+> What do you want to do?
+? P2 > 
+< place 3 76
+> 
+> Player 2:
+>   hand cards:
+>   chosen cards: 79_r
+>   row_1: 16_b 83_r 89_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g 76_b
+> 
+> What do you want to do?
+? P2 > 
+< discard 79
+> 
+> Player 2:
+>   hand cards:
+>   chosen cards:
+>   row_1: 16_b 83_r 89_r
+>   row_2: 51_g 71_r
+>   row_3: 3_g 76_b
+> 
+> 
+> Action phase is over - starting next game round!
+> 
+> 
+> Player 2: 67 points
+> Player 1: 58 points
+> 
+> Congratulations! Player 2 wins the game!

@@ -1,0 +1,13 @@
+> Welcome to SyntaxSakura (2 players are playing)!
+> 
+> -------------------
+> CARD CHOOSING PHASE
+> -------------------
+> 
+> Player 1:
+>   hand cards: 14_w 28_w 38_b 48_g 56_w 57_g 67_r 81_g 89_r 119_w
+>   chosen cards:
+> 
+> Please choose a first card to keep:
+? P1 > 
+< quit

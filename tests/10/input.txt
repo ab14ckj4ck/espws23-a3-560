@@ -1,0 +1,42 @@
+4
+9
+51
+99
+place 4
+place 1 4
+place 1 9
+help pls
+place 3 99
+place 1 51
+116
+15
+45
+92
+place 1 15
+place 3 116
+place 1 45
+place 3 92
+10
+24
+56     
+84
+place 1 24
+discard 10
+place 3 84
+place 2 56
+29
+107
+37    
+58
+place 1 29
+place 3 107
+place 1 37
+place 1 58
+65
+91
+28
+83
+place 3 91
+place 3 65
+place 1 28
+place 3 83

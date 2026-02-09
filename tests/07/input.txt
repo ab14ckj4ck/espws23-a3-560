@@ -1,0 +1,19 @@
+14
+38
+5
+30
+place 1 14
+place 1 38
+place 0 5
+place 4 5
+place 2 5 
+place 3 28
+place 3 5
+place 3 30
+29
+33
+48
+28
+place 1 29
+place 1 33
+quit
