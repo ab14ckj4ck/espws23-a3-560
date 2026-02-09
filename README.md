@@ -1,6 +1,5 @@
 # espws23-a3-560
 
-  GNU nano 8.5                                    README.md                                     Modified  
 # Assignment 3 - SyntaxSakura
 
 ## Introduction
@@ -46,6 +45,3 @@ Here you can find an overview of how your total grade for the KU will be calcula
 ## Submission
 - Deliverables: `a3.c`
 - Push to your repository
-                                           [ Read 1031 lines ]
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location    M-U Undo
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line  M-E Redo
